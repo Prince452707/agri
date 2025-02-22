@@ -1,3 +1,4 @@
 {
-    "cmake.sourceDirectory": "D:/programs/flutter_project/agri/linux"
+    "cmake.sourceDirectory": "D:/programs/flutter_project/agri/linux",
+    "java.configuration.updateBuildConfiguration": "interactive"
 }
